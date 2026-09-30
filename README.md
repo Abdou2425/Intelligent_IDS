@@ -1,4 +1,14 @@
 <div align="center">
+<table>
+  <tr>
+    <td><img src="images/simulation.png" alt="Top Left" width="300"></td>
+    <td><img src="images/dashboard_live.png" alt="Top Right" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="images/dashboard_config.png" alt="Bottom Left" width="300"></td>
+    <td><img src="images/confusion_matrices.png" alt="Bottom Right" width="300"></td>
+  </tr>
+</table>
 
 # 🛡️ AI-Powered Network Threat Detection System
 
